@@ -1,0 +1,29 @@
+The price of watermelon depends on the weight of the watermelon and the customer’s age.
+
+If the person’s age is 0 or less display an invalid age was entered, if age < 60 the price would be 15% of the weight, otherwise the price is 5% of the weight.
+
+Draw a flowchart and write a Pseudocode for this problem.
+
+
+
+A branch of government voting program stopped working so they asked to create a quick program to check the age to see if the person can vote or not. Draw a flowchart and write a Pseudocode for this problem.
+
+
+Create a flowchart and Pseudocode to find out how much scholarship a student gets in our college. If the GPA is greater than or equal 3.5 check their age and if their age is less than or equal 25 give them $10000 otherwise $5000 and if the GPA is not greater than or equal 3.5 the student gets $1000.
+
+
+
+Create a flowchart and Pseudocode to calculate how much commsion a real estate agent makes given the number of houses that they have sold.  If they sell 5 or less houses they will make $10,000 per house sold.  If they sell more than 5 houses then it depends on their largest house sale. IF their largestHouse is over 1 milliondollars their percentage is now 12% The commsion would then be 8 percent of their largest house sale times the number of houses that they sold in total.
+
+
+
+Equipment, or the devices, associated with a computer
+
+
+Printing your resume
+
+
+Programs and applications that tell the computer what to do
+
+
+Attaching your resume to an email
